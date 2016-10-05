@@ -22,6 +22,7 @@ This is a curated list of links to interesting information.
 
 
 <a name="business-modeling"/>
+
 ## Business Modeling 
 
 [Value Proposition Canvas Explained](https://www.youtube.com/watch?v=aN36EcTE54Q)
@@ -29,6 +30,7 @@ This is a curated list of links to interesting information.
 [Dragon Dreaming Project Design](http://www.dragondreaming.org/wp-content/uploads/DragonDreaming_eBook_english_V02.06.pdf)
 
 <a name="social"/>
+
 ## Social Architecture
 
 [Social Architecture](https://www.gitbook.com/book/hintjens/social-architecture/details)
@@ -39,6 +41,7 @@ This is a curated list of links to interesting information.
 
 
 <a name="user-experience"/>
+
 ## User Experience 
 
 [3 Critical UX Questions You Must Ask](https://www.youtube.com/watch?v=NGaP0LYzNes&index=1&list=PLYjU5WD2bzVzkxpLUxXYK2m6YKlPYJRQt)
@@ -47,6 +50,7 @@ This is a curated list of links to interesting information.
 
 
 <a name="decision"/>
+
 ## Decision Making 
 
 [Daniel Kahneman - Intelligent Decision-Making](https://vimeo.com/182878883)
@@ -55,6 +59,7 @@ This is a curated list of links to interesting information.
 
 
 <a name="machine-learning"/>
+
 ## Machine Learning 
 
 [the-amazing-power-of-word-vectors/](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
@@ -74,13 +79,16 @@ This is a curated list of links to interesting information.
 
 
 <a name="european-commision"/>
+
 ## European Commision
 
 [Data sources and use cases](https://ec.europa.eu/futurium/en/content/data-sets)
 
 [Accelerating the digital transformation of government](https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation)
 
+
 <a name="books"/>
+
 ## Books 
 
 
@@ -90,7 +98,9 @@ This is a curated list of links to interesting information.
 
 [O'Reilly Open Book Project](http://www.oreilly.com/openbook/)
 
+
 <a name="friends"/>
+
 ## Other Projects
 
 [Digital Civic Projects in Romania](https://docs.google.com/spreadsheets/d/17Y34dB1V80g3KY1MkKK_jzhFCo8ouRPWi-dJxmXn1NA/edit#gid=0)
