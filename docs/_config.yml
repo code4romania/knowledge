@@ -11,8 +11,8 @@ permalink:        pretty
 title:            Code4Ro
 tagline:          'Knowledge is Power'
 description:      'Hit the ground running'
-url:              https://code4romania.github.io/knowldege/
-baseurl:          /knowldege
+url:              https://code4romania.github.io/knowledge/
+baseurl:          /knowledge
 
 author:
   name:           'Code4Romania'
@@ -24,5 +24,5 @@ paginate:         5
 version:          0.0.1
 
 github:
-  repo:           https://github.com/code4romania/knowldege
+  repo:           https://github.com/code4romania/knowledge
 
