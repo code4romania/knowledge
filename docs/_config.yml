@@ -1,0 +1,28 @@
+# Dependencies
+# markdown:         redcarpet
+highlighter:      rouge
+gems: [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Code4Ro
+tagline:          'Starter Toolkit'
+description:      'Hit the ground running'
+url:              https://code4romania.github.io/toolkit/
+baseurl:          /toolkit
+
+author:
+  name:           'Code4Romania'
+  url:            https://code4.ro
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/code4romania/toolkit
+
