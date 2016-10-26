@@ -39,6 +39,8 @@ This is a curated list of links to interesting information.
 
 [Jake Calabrese on Building Antifragile Teams and Relationships](https://www.infoq.com/interviews/agile2015-calabrese-antifragile)
 
+[Proposing a Bottom-Up Approach to Civic Tech Organizing](https://medium.com/@QiqoChat/proposing-a-bottom-up-approach-to-civic-tech-organizing-a427e6954036#.ke3htqtxo)
+
 
 <a name="user-experience"/>
 
