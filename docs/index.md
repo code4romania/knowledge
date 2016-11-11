@@ -77,6 +77,8 @@ This is a curated list of links to interesting information.
 
 ## Machine Learning 
 
+[A curated list of awesome Machine Learning frameworks, libraries and software](https://github.com/josephmisiti/awesome-machine-learning)
+
 [The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 
 [Semantic Word Embeddings](http://www.offconvex.org/2015/12/12/word-embeddings-1/)
