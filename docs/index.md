@@ -136,3 +136,58 @@ This is a curated list of links to interesting information.
 [Digital Civic Projects in Romania](https://docs.google.com/spreadsheets/d/17Y34dB1V80g3KY1MkKK_jzhFCo8ouRPWi-dJxmXn1NA/edit#gid=0)
 
 [Code4America - Awesome Civic Software](https://github.com/codeforamerica/awesome-civic)
+
+[OpenStreetMap](www.openstreetmap.org/)
+
+[Poplus: a global federation for civic tech](http://poplus.org)
+
+[Take control of your data](https://myshadow.org)
+
+[Politifact](http://www.politifact.com)
+
+[FixMyStreet](https://www.fixmystreet.com)
+
+[WePromise](https://www.wepromise.eu/)
+
+[Your Priorities](https://yrpri.org/)
+
+[Save The Internet](https://savetheinternet.eu)
+
+[Ciudadano Inteligente](http://en.ciudadanointeligente.org)
+
+[Global Network Initiative](http://globalnetworkinitiative.org)
+
+[Standby Task Force - A humanitarian link](http://www.standbytaskforce.org)
+
+[Ushahidi](https://www.ushahidi.com/about)
+
+[La Quadrature du Net - Tools](https://www.laquadrature.net/en/tools)
+
+[OpenSpending](https://openspending.org)
+
+[VoteWatch](http://www.votewatch.eu)
+
+[Civic Commons Wiki](http://wiki.civiccommons.org)
+
+[Don't Let Yourself Be Silenced](https://ononymous.org)
+
+[Panopticlick](https://panopticlick.eff.org)
+
+[Open City Apps](http://opencityapps.org)
+
+[Code for All](https://codeforall.org/projects/)
+
+[OpenPlans @ github](https://github.com/openplans/)
+
+[OCCRP Visualization Tools for Investigators](https://vis.occrp.org)
+
+[OCCRP Investigative Dashboard](https://investigativedashboard.org)
+
+[DemocracyOS](http://democracyos.org)
+
+[Umbrellium](http://umbrellium.co.uk/#initiatives)
+
+[Data-Smart City Solutions](http://datasmart.ash.harvard.edu)
+
+[Github and Government](https://government.github.com)
+
