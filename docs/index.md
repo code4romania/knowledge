@@ -10,6 +10,7 @@ title: Knowledge
 This is a curated list of links to interesting information. 
 
 ### Table of Contents 
+* [Civic Hacking](#civic-hacking)
 * [Business Modeling](#business-modeling)
 * [Social Architecture](#social)
 * [User Experience](#user-experience)
@@ -20,6 +21,17 @@ This is a curated list of links to interesting information.
 
 * [Other Projects](#friends)
 
+<a name="civic-hacking"/>
+
+## Civic Hacking
+
+[Civic Innovation Toolkit: How to run a civic hackathon](http://www.smartchicagocollaborative.org/civic-innovation-toolkit-how-to-run-a-civic-hackathon/)
+
+[How to get started in civic hacking](https://opensource.com/government/14/2/how-get-started-civic-hacking)
+
+[Scraping the global civic tech community on GitHub, part 2](http://sbaack.com/2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html)
+
+[3 models for civic hackers: Green field, cloned, augmentation](https://opensource.com/government/15/6/3-models-civic-hackers-green-field-cloned-augmentation)
 
 <a name="business-modeling"/>
 
