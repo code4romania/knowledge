@@ -65,19 +65,19 @@ This is a curated list of links to interesting information.
 
 ## Machine Learning 
 
-[the-amazing-power-of-word-vectors/](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
+[The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 
-[word-embeddings-1/](http://www.offconvex.org/2015/12/12/word-embeddings-1/)
+[Semantic Word Embeddings](http://www.offconvex.org/2015/12/12/word-embeddings-1/)
 
-[neural-networks/convolutional-neural-networks/](http://www.wildml.com/category/neural-networks/convolutional-neural-networks/)
+[Convolutional neural networks/](http://www.wildml.com/category/neural-networks/convolutional-neural-networks/)
 
-[attention-and-memory-in-deep-learning-and-nlp/](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+[Attention and memory in deep learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
-[http://cs224d.stanford.edu/syllabus.html](http://cs224d.stanford.edu/syllabus.html)
+[CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
-[http://web.eecs.umich.edu/~mihalcea/downloads.html](http://web.eecs.umich.edu/~mihalcea/downloads.html)
+[Rada Mihalcea's research materials](http://web.eecs.umich.edu/~mihalcea/downloads.html)
 
-[http://conf.ling.cornell.edu/ancache/resources.html](http://conf.ling.cornell.edu/ancache/resources.html)
+[Anca Chereches' resources](http://conf.ling.cornell.edu/ancache/resources.html)
 
 
 
