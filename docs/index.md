@@ -113,8 +113,6 @@ This is a curated list of links to interesting information.
 
 [O'Reilly Open Book Project](http://www.oreilly.com/openbook/)
 
-[Version Control by Example](http://ericsink.com/vcbe/)
-
 [Freely available programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 [Open Government](https://github.com/oreillymedia/open_government/)
