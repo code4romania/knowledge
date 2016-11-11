@@ -101,6 +101,21 @@ This is a curated list of links to interesting information.
 
 [O'Reilly Open Book Project](http://www.oreilly.com/openbook/)
 
+[Version Control by Example](http://ericsink.com/vcbe/)
+
+[Freely available programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
+[Open Government](https://github.com/oreillymedia/open_government/)
+
+[Beyond Transparency: Open Data and the Future of Civic Innovation](http://beyondtransparency.org/chapters/preface/)
+
+[Open Government Data](https://opengovdata.io/)
+
+[School of Data Handbook](http://schoolofdata.org/handbook/)
+
+[Citizen Engineer](http://citizenengineer.org/)
+
+[Applying open source principles to government](https://opensource.com/resources/ebook/opengov)
 
 <a name="friends"/>
 
