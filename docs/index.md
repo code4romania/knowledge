@@ -174,6 +174,8 @@ This is a curated list of links to interesting information.
 
 [VoteWatch](http://www.votewatch.eu)
 
+[Where Does My Money Go?](http://app.wheredoesmymoneygo.org)
+
 [Civic Commons Wiki](http://wiki.civiccommons.org)
 
 [Don't Let Yourself Be Silenced](https://ononymous.org)
