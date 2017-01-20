@@ -129,7 +129,7 @@ This is a curated list of links to interesting information.
 
 [Applying open source principles to government](https://opensource.com/resources/ebook/opengov)
 
-[Civic Apps Competition Handbook: A Guide to Planning, Organizing, and Troubleshooting](www.amazon.com/Civic-Apps-Competition-Handbook-Eyler-Werve-ebook/dp/B0099BK5FG/)
+[Civic Apps Competition Handbook: A Guide to Planning, Organizing, and Troubleshooting](https://www.amazon.com/Civic-Apps-Competition-Handbook-Eyler-Werve-ebook/dp/B0099BK5FG/)
 
 <a name="friends"/>
 
