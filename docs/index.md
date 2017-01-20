@@ -133,8 +133,6 @@ This is a curated list of links to interesting information.
 
 ## Other Projects
 
-[Digital Civic Projects in Romania](https://docs.google.com/spreadsheets/d/17Y34dB1V80g3KY1MkKK_jzhFCo8ouRPWi-dJxmXn1NA/edit#gid=0)
-
 [Code4America - Awesome Civic Software](https://github.com/codeforamerica/awesome-civic)
 
 [OpenStreetMap](www.openstreetmap.org/)
