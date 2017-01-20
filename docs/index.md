@@ -185,6 +185,8 @@ This is a curated list of links to interesting information.
 
 [DemocracyOS](http://democracyos.org)
 
+[CHVote: an opensource, publicly owned evoting system](https://github.com/republique-et-canton-de-geneve/chvote-1-0)
+
 [Umbrellium](http://umbrellium.co.uk/#initiatives)
 
 [Data-Smart City Solutions](http://datasmart.ash.harvard.edu)
