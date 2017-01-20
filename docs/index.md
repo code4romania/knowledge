@@ -11,6 +11,7 @@ This is a curated list of links to interesting information.
 
 ### Table of Contents 
 * [Civic Hacking](#civic-hacking)
+* [Open data](#od)
 * [Business Modeling](#business-modeling)
 * [Social Architecture](#social)
 * [User Experience](#user-experience)
@@ -32,6 +33,12 @@ This is a curated list of links to interesting information.
 [Scraping the global civic tech community on GitHub, part 2](http://sbaack.com/2015/11/19/scraping-the-global-civic-tech-community-on-github-part-2.html)
 
 [3 models for civic hackers: Green field, cloned, augmentation](https://opensource.com/government/15/6/3-models-civic-hackers-green-field-cloned-augmentation)
+
+<a name="od"/>
+
+## Open data
+
+[2600+ Open Data Portals Around the World](https://opendatainception.io)
 
 <a name="business-modeling"/>
 
