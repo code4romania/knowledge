@@ -10,6 +10,7 @@ title: Knowledge
 This is a curated list of links to interesting information. 
 
 ### Table of Contents 
+* [Contributing to open source](#contributing-to-open-source)
 * [Civic Hacking](#civic-hacking)
 * [Open data](#od)
 * [Business Modeling](#business-modeling)
@@ -23,6 +24,18 @@ This is a curated list of links to interesting information.
 * [Other Projects](#friends)
 
 <a name="civic-hacking"/>
+
+## Contributing to open source
+
+[How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+
+[GitHub Learning Lab](https://lab.github.com/)
+
+[A course on Version Control with Git](https://eu.udacity.com/course/version-control-with-git--ud123)
+
+[A course on How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
+
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 ## Civic Hacking
 
