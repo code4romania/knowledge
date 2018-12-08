@@ -77,6 +77,8 @@ This is a curated list of links to interesting information.
 
 [Proposing a Bottom-Up Approach to Civic Tech Organizing](https://medium.com/@QiqoChat/proposing-a-bottom-up-approach-to-civic-tech-organizing-a427e6954036#.ke3htqtxo)
 
+[The Copenhagen Catalog - 150 principles for a new direction in tech](https://www.copenhagencatalog.org/)
+
 
 <a name="user-experience"/>
 
