@@ -51,6 +51,8 @@ This is a curated list of links to interesting information.
 
 ## Open data
 
+[The Hitchhiker's Guide to Data Science for Social Good](https://github.com/dssg/hitchhikers-guide)
+
 [2600+ Open Data Portals Around the World](https://opendatainception.io)
 
 <a name="business-modeling"/>
