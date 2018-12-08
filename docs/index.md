@@ -47,6 +47,8 @@ This is a curated list of links to interesting information.
 
 [3 models for civic hackers: Green field, cloned, augmentation](https://opensource.com/government/15/6/3-models-civic-hackers-green-field-cloned-augmentation)
 
+[Civic patterns](http://civicpatterns.org/)
+
 <a name="od"/>
 
 ## Open data
