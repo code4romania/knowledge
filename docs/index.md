@@ -27,6 +27,8 @@ This is a curated list of links to interesting information.
 
 ## Contributing to open source
 
+[Github Guides](https://guides.github.com/)
+
 [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 [GitHub Learning Lab](https://lab.github.com/)
