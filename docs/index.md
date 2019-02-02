@@ -19,6 +19,7 @@ This is a curated list of links to interesting information.
 * [Decision Making](#decision)
 * [Machine Learning](#machine-learning)
 * [European Commision](#european-commision)
+* [Innovation](#innovation)
 * [Books](#books)
 
 * [Other Projects](#friends)
@@ -137,6 +138,9 @@ This is a curated list of links to interesting information.
 
 [Accelerating the digital transformation of government](https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation)
 
+## Innovation
+
+[Nesta - Help me innovate](https://www.nesta.org.uk/help-me-innovate/)
 
 <a name="books"/>
 
@@ -164,6 +168,8 @@ This is a curated list of links to interesting information.
 [Applying open source principles to government](https://opensource.com/resources/ebook/opengov)
 
 [Civic Apps Competition Handbook: A Guide to Planning, Organizing, and Troubleshooting](https://www.amazon.com/Civic-Apps-Competition-Handbook-Eyler-Werve-ebook/dp/B0099BK5FG/)
+
+[the Just City essays](https://www.thenatureofcities.com/the-just-city-essays/)
 
 <a name="friends"/>
 
