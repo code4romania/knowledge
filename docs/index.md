@@ -59,6 +59,12 @@ This is a curated list of links to interesting information.
 
 [2600+ Open Data Portals Around the World](https://opendatainception.io)
 
+[Practical guide to building future proof Open Data Portals](https://www.europeandataportal.eu/en/highlights/practical-guide-building-future-proof-open-data-portals)
+
+[Open Data Goldbook for Data Managers and Data Holders](https://www.europeandataportal.eu/en/providing-data/goldbook)
+
+[European Data Portal e-learning programme](https://www.europeandataportal.eu/elearning/en/#/id/co-01)
+
 <a name="business-modeling"/>
 
 ## Business Modeling 
